@@ -5,3 +5,4 @@
 4. git commit -m : agrega archivos del staging area al repositoio git
 5. git log :  te lista tdoso los comits realizados
 6. git log --oneline
+7. .gitignore : ignora archivos
